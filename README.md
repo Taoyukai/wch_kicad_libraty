@@ -19,6 +19,7 @@ wch-antenna.pretty clone from https://github.com/sad-electronics/wch-kicad-lbr
 | CH32V003F4U6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V003J4M6 | :heavy_check_mark: | :x:                  |
 | CH32V203CxT6 | :heavy_check_mark: | :heavy_check_mark:   |
+| CH32V208CBU6 | :heavy_check_mark: | :x:                  |
 | CH32V208GBU6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V208WBU6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V305FBP6 | :heavy_check_mark: | :heavy_check_mark:   |
